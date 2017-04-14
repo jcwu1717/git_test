@@ -1,6 +1,7 @@
 ## git_test<br>
 test yo:+1: <br>
-:/play nyan:
+:smile: <br>
+/play nyan <br>
 **This is my first git.**<br>
 Just a try to ues github.<br><br>
 As an old saying:
